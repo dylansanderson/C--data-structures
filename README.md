@@ -1,1 +1,2 @@
-# C--data-structures
+# C++
+Various C++ data structures
