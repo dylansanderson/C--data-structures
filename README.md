@@ -1,2 +1,2 @@
 # C++
-Various C++ data structures
+Various C++ data structures (non - STL)
